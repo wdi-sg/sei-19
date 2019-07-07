@@ -182,3 +182,11 @@ background-size: cover;
     position: relative;
     font-size: 30px;
 }
+
+.levelTwoBottomRight{
+    border: 3px solid orange;
+    height: 50%;
+    width: 100%;
+    font-size: 80px;
+    text-align: center;
+}

@@ -75,6 +75,11 @@ while(parrot[0]){
     console.log("I tried to make something happen here!!");
 };
 
+var randomDoor = "newBox-" + Math.floor(Math.random()*12);
+console.log(randomDoor);
+
+var levelTwoCounter = 6;
+
 function secondGame(){
     var canvas = document.getElementById("central1");
     canvas.setAttribute("class", "levelTwo");
@@ -90,11 +95,49 @@ function secondGame(){
             "mouseover", function(){
                 this.style.backgroundColor = getRandomColor();
             });
+        document.getElementById("newBox-"+i).
+        addEventListener("click", gameTwoCheck);
     }
     this.remove();
     var bullDog = document.getElementById("rightHalf");
     var topRight = document.createElement("div");
     topRight.setAttribute("class", "levelTwoTopRight");
+    topRight.setAttribute("id", "levelTwoExit");
     topRight.innerHTML = "You're in level two!";
     bullDog.appendChild(topRight);
+    var bottomRight = document.createElement("div");
+    bottomRight.setAttribute("class", "levelTwoBottomRight");
+    bottomRight.setAttribute("id", "reloadTwo");
+    bottomRight.innerHTML = "Find me again!";
+    bullDog.appendChild(bottomRight);
+    document.getElementById("wordOut").innerHTML = "Level 2";
 }
+
+function gameTwoCheck(event){
+        if (event.target.id === randomDoor){
+            document.getElementById("wordOut").innerHTML = "You found me!";
+            clearAll('levelTwoBox');
+            document.getElementById("levelTwoExit").innerHTML = "Click me to enter the next level.";
+            // document.getElementById("smallControl").addEventListener("click", secondGame);
+        }else{
+            event.target.remove();
+            levelTwoCounter--;
+            document.getElementById("wordOut").innerHTML = "You have "+levelTwoCounter+" tries left!";
+            console.log(levelTwoCounter);
+            if(levelTwoCounter === 0){
+        document.getElementById("wordOut").innerHTML = "GAME OVER!";
+        createReloadTwo();
+    clearAll('levelTwoBox');
+    }
+        }
+    }
+    ;
+function createReloadTwo(){
+    document.getElementById("reloadTwo").remove();
+var boss = document.getElementById("rightHalf");
+var newton = document.createElement("div");
+newton.setAttribute("id","reloadDiv");
+boss.appendChild(newton);
+document.getElementById("reloadDiv").addEventListener("click", madReload);
+console.log("something should have happened!");
+};
