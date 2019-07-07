@@ -26,22 +26,14 @@ background-size: cover;
     height: 280px;
     width: 100%;
     position: relative;
-}
-
-.babyBox{
-    width: 40px;
-    height: 60px;
-    position: absolute;
-    left: 122px;
-    top: 0px;
-    transform-origin: center 140px;
+    font-size: 30px;
 }
 
 #smallerSpace{
     border: 3px solid orange;
     height: 50%;
     width: 100%;
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
 }
 
@@ -166,4 +158,27 @@ background-size: cover;
 #box-18 {
   background-color:green;
   transform: rotate(-300deg);
+}
+
+.levelTwo{
+    border: 3px solid pink;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.levelTwoBox{
+    width: 100px;
+    height: 150px;
+}
+
+.levelTwoTopRight{
+    border: 3px solid red;
+    height: 280px;
+    width: 100%;
+    position: relative;
+    font-size: 30px;
 }
