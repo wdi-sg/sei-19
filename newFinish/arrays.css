@@ -1,0 +1,86 @@
+.background{
+background-image: url('video.png');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container{
+    border: 3px solid red;
+    height: 580px;
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.leftHalf{
+    border: 3px solid orange;
+    height: 580px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.rightHalf{
+    border: 3px solid blue;
+    height: 580px;
+    width: 300px;
+}
+
+.topLeft{
+    border: 3px solid blue;
+    height: 500px;
+    width: 500px;
+}
+
+#canvas{
+    position: relative;
+}
+
+.bottomLeft{
+    border: 3px solid green;
+    height: 70px;
+    width: 500px;
+    font-size: 55px;
+    text-align: center;
+}
+
+.topRight{
+    border: 3px solid red;
+    height: 280px;
+    width: 100%;
+    position: relative;
+    font-size: 30px;
+}
+
+.bottomRight{
+    border: 3px solid orange;
+    height: 50%;
+    width: 100%;
+    font-size: 80px;
+    text-align: center;
+}
+
+.firstGameBox{
+    width: 100px;
+    height: 150px;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    transform-origin: center 250px;
+}
+
+#reloadDiv{
+    border: 3px solid orange;
+    height: 50%;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    background-image: url('Reload-Logo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
