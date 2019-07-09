@@ -32,24 +32,25 @@ document.getElementById("gallery").addEventListener("click", firstGame);
 var firstGameCounter;
 var firstGameRandomBox;
 var levelCounter = 0;
+var firstGameNumberOfBoxes = 3;
 
 function firstGame(){
-    firstGameCounter = 12;
-    firstGameRandomBox = "firstGameBox-" + Math.ceil(Math.random()*18);
+    firstGameCounter = firstGameNumberOfBoxes-1;
+    firstGameRandomBox = "firstGameBox-" + Math.ceil(Math.random()*firstGameNumberOfBoxes);
     console.log(firstGameRandomBox);
     document.getElementById("story").innerHTML = "You get "+firstGameCounter+" tries to find me. Click one of the colorful boxes to find me.";
     levelCounter++;
     document.getElementById("output").innerHTML="Level "+levelCounter;
     var square = document.getElementById("canvas");
-    var degree = 20;
-    for (i=1; i<19; i++){
+    var degree = (360/firstGameNumberOfBoxes);
+    for (i=1; i<(firstGameNumberOfBoxes+1); i++){
         var makeDiv = document.createElement("div");
         makeDiv.setAttribute("class","firstGameBox");
         makeDiv.style.backgroundColor = getRandomColor();
         makeDiv.setAttribute("id","firstGameBox-"+i);
         makeDiv.style.transform = "rotate("+degree+"deg)";
         square.appendChild(makeDiv);
-        degree = degree + 20;
+        degree = degree + (360/firstGameNumberOfBoxes);
         document.getElementById("firstGameBox-"+i).addEventListener("mouseover", function(){
                 this.style.backgroundColor = getRandomColor();
             });
@@ -64,6 +65,7 @@ function firstGameCheck(){
         clearContent('firstGameBox');
         document.getElementById("story").innerHTML = "Click me to enter the next level.";
         document.getElementById("story").addEventListener("click", secondGame);
+        firstGameNumberOfBoxes++;
         }else{
             event.target.remove();
             firstGameCounter--;
@@ -78,17 +80,18 @@ function firstGameCheck(){
 
 var secondGameCounter;
 var secondGameRandomBox;
+var secondGameNumberOfBoxes = 3;
 
 function secondGame(){
-    secondGameCounter = 6;
-    secondGameRandomBox = "secondGameBox-" + Math.ceil(Math.random()*12);
+    secondGameCounter = secondGameNumberOfBoxes-1;
+    secondGameRandomBox = "secondGameBox-" + Math.ceil(Math.random()*secondGameNumberOfBoxes);
     console.log(secondGameRandomBox);
     levelCounter++;
     document.getElementById("output").innerHTML="Level "+levelCounter;
     var square = document.getElementById("canvas");
     square.setAttribute("class", "stage");
     console.log("Second game is running now!");
-    for (i=1; i<13; i++){
+    for (i=1; i<(secondGameNumberOfBoxes+1); i++){
         var makeDiv = document.createElement("div");
         makeDiv.setAttribute("class", "secondGameBox");
         makeDiv.style.backgroundColor = getRandomColor();
@@ -123,6 +126,7 @@ function secondGameCheck(){
             square.setAttribute("class", "topLeft");
             document.getElementById("gallery").addEventListener
             ("click", firstGame);
+            secondGameNumberOfBoxes++;
         }else{
             event.target.remove();
             secondGameCounter--;
