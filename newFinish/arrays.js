@@ -59,7 +59,7 @@ function firstGameCheck(event){
             document.getElementById("output").innerHTML = "You found me!";
             clearContent('firstGameBox');
             document.getElementById("story").innerHTML = "Click me to enter the next level.";
-            // document.getElementById("story").addEventListener("click", secondGame);
+            document.getElementById("story").addEventListener("click", secondGame);
         }else{
             event.target.remove();
             firstGameCounter--;
@@ -68,6 +68,60 @@ function firstGameCheck(event){
         document.getElementById("output").innerHTML = "GAME OVER!";
         createReload();
     clearContent('firstGameBox');
+    }
+        }
+    };
+
+var secondGameCounter = 6;
+var secondGameRandomBox = "secondGameBox-" + Math.ceil(Math.random()*12);
+console.log(secondGameRandomBox);
+
+function secondGame(){
+    var square = document.getElementById("canvas");
+    square.setAttribute("class", "stage");
+    console.log("Second game is running now!");
+    for (i=1; i<13; i++){
+        var makeDiv = document.createElement("div");
+        makeDiv.setAttribute("class", "secondGameBox");
+        makeDiv.style.backgroundColor = getRandomColor();
+        makeDiv.setAttribute("id", "secondGameBox-"+i);
+        square.appendChild(makeDiv);
+        document.getElementById("secondGameBox-"+i).addEventListener("mouseover", function(){
+                this.style.backgroundColor = getRandomColor();
+            });
+        document.getElementById("secondGameBox-"+i).
+        addEventListener("click", secondGameCheck);
+    }
+    this.remove();
+    var insertPlace = document.getElementById("page");
+    var topRightDiv = document.createElement("div");
+    topRightDiv.setAttribute("class", "topRight");
+    topRightDiv.setAttribute("id", "story");
+    topRightDiv.innerHTML = "You're in level two! You have six tries to find me again!";
+    insertPlace.appendChild(topRightDiv);
+    var bottomRightDiv = document.createElement("div");
+    bottomRightDiv.setAttribute("class", "bottomRight");
+    bottomRightDiv.setAttribute("id", "gallery");
+    bottomRightDiv.innerHTML = "Click boxes!";
+    insertPlace.appendChild(bottomRightDiv);
+    document.getElementById("output").innerHTML = "Level 2";
+}
+
+function secondGameCheck(event){
+        if (event.target.id === secondGameRandomBox){
+            document.getElementById("output").innerHTML = "You found me!";
+            clearContent('secondGameBox');
+            document.getElementById("story").innerHTML = "Click me to enter the next level.";
+            // document.getElementById("smallControl").addEventListener("click", secondGame);
+        }else{
+            event.target.remove();
+            secondGameCounter--;
+            document.getElementById("output").innerHTML = "You have "+secondGameCounter+" tries left!";
+            if(secondGameCounter === 0){
+        document.getElementById("output").innerHTML = "GAME OVER!";
+        document.getElementById("gallery").remove();
+        createReload();
+    clearContent('secondGameBox');
     }
         }
     }

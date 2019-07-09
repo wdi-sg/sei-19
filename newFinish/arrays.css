@@ -84,3 +84,18 @@ background-size: cover;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.stage{
+    border: 3px solid pink;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.secondGameBox{
+    width: 100px;
+    height: 150px;
+}
