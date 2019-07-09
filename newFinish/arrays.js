@@ -34,10 +34,10 @@ var firstGameRandomBox;
 var levelCounter = 0;
 
 function firstGame(){
-    firstGameCounter = 6;
+    firstGameCounter = 12;
     firstGameRandomBox = "firstGameBox-" + Math.ceil(Math.random()*18);
     console.log(firstGameRandomBox);
-    document.getElementById("story").innerHTML = "You get six tries to find me. Click one of the colorful boxes to find me.";
+    document.getElementById("story").innerHTML = "You get twelve tries to find me. Click one of the colorful boxes to find me.";
     levelCounter++;
     document.getElementById("output").innerHTML="Level "+levelCounter;
     var square = document.getElementById("canvas");
