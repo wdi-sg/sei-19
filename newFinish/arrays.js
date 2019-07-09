@@ -37,7 +37,7 @@ function firstGame(){
     firstGameCounter = 12;
     firstGameRandomBox = "firstGameBox-" + Math.ceil(Math.random()*18);
     console.log(firstGameRandomBox);
-    document.getElementById("story").innerHTML = "You get twelve tries to find me. Click one of the colorful boxes to find me.";
+    document.getElementById("story").innerHTML = "You get "+firstGameCounter+" tries to find me. Click one of the colorful boxes to find me.";
     levelCounter++;
     document.getElementById("output").innerHTML="Level "+levelCounter;
     var square = document.getElementById("canvas");
@@ -105,7 +105,7 @@ function secondGame(){
     var topRightDiv = document.createElement("div");
     topRightDiv.setAttribute("class", "topRight");
     topRightDiv.setAttribute("id", "story");
-    topRightDiv.innerHTML = "You're in level "+levelCounter+"! You have six tries to find me again!";
+    topRightDiv.innerHTML = "You're in level "+levelCounter+"! You have "+secondGameCounter+" tries to find me again!";
     insertPlace.appendChild(topRightDiv);
     var bottomRightDiv = document.createElement("div");
     bottomRightDiv.setAttribute("class", "bottomRight");
