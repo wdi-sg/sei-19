@@ -94,6 +94,7 @@ function secondGame(){
     for (i=1; i<(secondGameNumberOfBoxes+1); i++){
         var makeDiv = document.createElement("div");
         makeDiv.setAttribute("class", "secondGameBox");
+        makeDiv.style.width = (100/(Math.ceil(secondGameNumberOfBoxes/3)));
         makeDiv.style.backgroundColor = getRandomColor();
         makeDiv.setAttribute("id", "secondGameBox-"+i);
         square.appendChild(makeDiv);
