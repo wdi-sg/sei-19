@@ -23,7 +23,7 @@
 |[Low Wei De](https://github.com/BenBear93)|[Marvel Game](https://benbear93.github.io/sei-19/project-1/)||||
 |[Malcolm Low](https://github.com/MalcolmLow83)|[Can You Change Accurately?](https://malcolmlow83.github.io/project1_changeGame)||||
 |[Marcus Teo](https://github.com/MadnessAntipathy)|[Farmegeddon](https://madnessantipathy.github.io/farmegeddon/)||||
-|[Mohammad Asshikin Bin Kamaruzaman](https://github.com/kinskin)|[GAME_NAME](https://github.com/kinskin/project1)||||
+|[Mohammad Asshikin Bin Kamaruzaman](https://github.com/kinskin)|[Guess the Picture](https://kinskin.github.io/guess-the-word/)||||
 |[Muhammad Hafiz Bin Abu Bakar](https://github.com/eenfeeneet)|[Fight or Flight](https://eenfeeneet.github.io/sei-19/project-1/index.html)||||
 |[Muhammad Hilmi Bin Johari](https://github.com/emijay)|[Gotta Catch 'Em All!](https://emijay.github.io/Project-One/)||||
 |[Nicholas Bingei](https://github.com/nbinged)|[BlackJack](https://nbinged.github.io/sei-19/)||||
