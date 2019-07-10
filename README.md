@@ -17,7 +17,7 @@
 |[Frederick Ku](https://github.com/FrederickKu)|[The Impossible Game](https://frederickku.github.io/The-Impossible-Game/)||||
 |[He Qi Jonathan Bek](https://github.com/apooshoo)|[Whack-a-Kanji](https://apooshoo.github.io/whackakanji/)||||
 |[Hui Yu Low](https://github.com/sharkyu3)|[Battleships](https://sharkyu3.github.io/Battleships/)||||
-|[Keith Kwan](https://github.com/w0bbbles)|[GAME_NAME](https://github.com/w0bbbles/project1)||||
+|[Keith Kwan](https://github.com/w0bbbles)|[]()||||
 |[Kenny Ang Chin Hua](https://github.com/kach92)|[Reversi](https://kach92.github.io/Reversi/)||||
 |[Le Lien Huong](github.com/janetle)|[Find Numbers](https://janetle.github.io/Janetle-GA-project-1/)||||
 |[Low Wei De](https://github.com/BenBear93)|[Marvel Game](https://benbear93.github.io/sei-19/project-1/)||||
