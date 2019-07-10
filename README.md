@@ -9,7 +9,7 @@
 |[Axel Jacob](https://github.com/axejacob)|[Simon](https://axejacob.github.io/simon/)||||
 |[Benny Chin](https://github.com/irockmysock/)|[Shoot Shoot](https://irockmysock.github.io/project-1-shootshoot/)||||
 |[Boon Hock Teo](https://github.com/hockie2)|[Whack-a-Mole!!](https://hockie2.github.io/Project_01/)||||
-|[Chin Kok MAH](https://github.com/marcykay)|[GAME_NAME](https://github.com/marcykay/project1)||||
+|[Chin Kok MAH](https://github.com/marcykay)|[Take It Easy!](https://marcykay.github.io/sei-19/project-1/game.html)||||
 |[Daniel Choo](https://github.com/yoda14)|[Guess the Card](https://yoda14.github.io/sei-19/newFinish/arrays.html)||||
 |[Daniel Tan](https://github.com/aikchongtan)|[Guess the Country](https://aikchongtan.github.io/sei-19/)||||
 |[Donna Cheong](https://github.com/DonC24)|[Base RPG is Base](https://donc24.github.io/sei-19/project-1/index.html)||||
