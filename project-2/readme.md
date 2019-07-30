@@ -56,9 +56,9 @@ Certain apps are better suited to the short time frame and environment of WDI:
 Keeps track of user submitted data:
 - Todo / note taking apps
 - Fitness tracking apps
-- E-commerce / inventory apps
-- Stock market
-- Diet tracking
+- Stock market / trading apps
+- Meal tracking
+- Personal Music Library
 
 **Games**
 Any game with player turns works well within the context of a CRUD app.
@@ -71,6 +71,7 @@ Players can take turns for each step of the game and the state is saved in the d
 - Scrabble
 
 **Data display apps**
+- Pokemons
 - Star Wars API
 - TV browser
 
