@@ -26,10 +26,10 @@
 |[Mohammad Asshikin Bin Kamaruzaman](https://github.com/kinskin)|[Guess the Picture](https://kinskin.github.io/guess-the-word/)||||
 |[Muhammad Hafiz Bin Abu Bakar](https://github.com/eenfeeneet)|[Fight or Flight](https://eenfeeneet.github.io/sei-19/project-1/index.html)||||
 |[Muhammad Hilmi Bin Johari](https://github.com/emijay)|[Gotta Catch 'Em All!](https://emijay.github.io/Project-One/)||||
-|[Nicholas Bingei](https://github.com/nbinged)|[BlackJack](https://nbinged.github.io/sei-19/)||||
+|[Nicholas Bingei](https://github.com/nbinged)|[BlackJack](https://nbinged.github.io/BlackJack/)||||
 |[Nur Aqilah Binte Rajab](https://github.com/aqilahrajab/)|[Detective Race](https://aqilahrajab.github.io/Detective-Game/)||||
 |[Samuel Boey](https://github.com/samboey/)|[Battleship](https://samboey.github.io/battleship/)||||
-|[Shirley Tan](https://github.com/shirleytwl)|[Gone Fishing!](https://shirleytwl.github.io/ga-assignment-01/)||||
+|[Shirley Tan](https://github.com/shirleytwl)|[Gone Fishing!](https://shirleytwl.github.io/gone-fishing/)||||
 |[Sow Yuen Leong](https://github.com/sowyuen)|[Speed Challenge](https://sowyuen.github.io/ga-firstproject/)||||
 |[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)||||
 |[Thean Yew Lim](https://github.com/limty/)|[Snake](https://tyli.ml/project-1/)||||
