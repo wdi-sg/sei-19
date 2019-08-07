@@ -16,7 +16,7 @@
 |[Elise Pei Hui Chia](https://github.com/smallfurrr/)|[What the Food?!](https://smallfurrr.github.io/elise-project-1-game/html/)|[Minute Diary](http://minute-diary.herokuapp.com/)|||
 |[Frederick Ku](https://github.com/FrederickKu)|[The Impossible Game](https://frederickku.github.io/The-Impossible-Game/)|[Social Library](https://immense-beach-45472.herokuapp.com/)|||
 |[He Qi Jonathan Bek](https://github.com/apooshoo)|[Whack-a-Kanji](https://apooshoo.github.io/whackakanji/)|[Vaults](https://blooming-scrubland-46815.herokuapp.com/)|||
-|[Hui Yu Low](https://github.com/sharkyu3)|[Battleships](https://sharkyu3.github.io/Battleships/)||||
+|[Hui Yu Low](https://github.com/sharkyu3)|[Battleships](https://sharkyu3.github.io/Battleships/)|[Punnet](https://pu-nnet.herokuapp.com/)|||
 |[Keith Kwan](https://github.com/w0bbbles)|[Iron Chef Hyrule](https://w0bbbles.github.io/keithtest/Project%201/)|[EVENTion](https://immense-island-47631.herokuapp.com/)|||
 |[Kenny Ang Chin Hua](https://github.com/kach92)|[Reversi](https://kach92.github.io/Reversi/)|[Bill Splitter](https://blitt.herokuapp.com/blitt/login)|||
 |[Le Lien Huong](github.com/janetle)|[Find Numbers](https://janetle.github.io/Janetle-GA-project-1/)||||
