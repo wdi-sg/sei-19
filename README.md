@@ -22,8 +22,8 @@
 |[Le Lien Huong](github.com/janetle)|[Find Numbers](https://janetle.github.io/Janetle-GA-project-1/)||||
 |[Low Wei De](https://github.com/BenBear93)|[Marvel Game](https://benbear93.github.io/sei-19/project-1/)|[Insta Foodie](https://instafoodie.herokuapp.com/login)|||
 |[Malcolm Low](https://github.com/MalcolmLow83)|[Can You Change Accurately?](https://malcolmlow83.github.io/project1_changeGame)|[Scheme Shorlister](https://scheme-shortlister.herokuapp.com/)|||
-|[Marcus Teo](https://github.com/MadnessAntipathy)|[Farmegeddon](https://madnessantipathy.github.io/farmegeddon/)||||
-|[Mohammad Asshikin Bin Kamaruzaman](https://github.com/kinskin)|[Guess the Picture](https://kinskin.github.io/guess-the-word/)||||
+|[Marcus Teo](https://github.com/MadnessAntipathy)|[Farmegeddon](https://madnessantipathy.github.io/farmegeddon/)|[Ride On](https://frozen-anchorage-20922.herokuapp.com/home)|||
+|[Mohammad Asshikin Bin Kamaruzaman](https://github.com/kinskin)|[Guess the Picture](https://kinskin.github.io/guess-the-word/)|[Find Food](https://kinskin.herokuapp.com/findfood)|||
 |[Muhammad Hafiz Bin Abu Bakar](https://github.com/eenfeeneet)|[Fight or Flight](https://eenfeeneet.github.io/sei-19/project-1/index.html)|[WebNoSSer](https://gentle-lowlands-81305.herokuapp.com/webnosser)|||
 |[Muhammad Hilmi Bin Johari](https://github.com/emijay)|[Gotta Catch 'Em All!](https://emijay.github.io/Project-One/)|[Fitness Tracker](https://enigmatic-taiga-30879.herokuapp.com/home)|||
 |[Nicholas Bingei](https://github.com/nbinged)|[BlackJack](https://nbinged.github.io/BlackJack/)|[Locked in Closets](https://locked-in-closets.herokuapp.com/login)|||
@@ -31,9 +31,12 @@
 |[Samuel Boey](https://github.com/samboey/)|[Battleship](https://samboey.github.io/battleship/)||||
 |[Shirley Tan](https://github.com/shirleytwl)|[Gone Fishing!](https://shirleytwl.github.io/gone-fishing/)|[We View](https://yt-weview.herokuapp.com/)|||
 |[Sow Yuen Leong](https://github.com/sowyuen)|[Speed Challenge](https://sowyuen.github.io/ga-firstproject/)|[KAching!](https://hidden-wildwood-61434.herokuapp.com)|||
-|[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)||||
+|[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)|[nēi
+Events
+Login
+Register](https://project-nei.herokuapp.com/#)|||
 |[Thean Yew Lim](https://github.com/limty/)|[Snake](https://tyli.ml/project-1/)||||
 |[Wen Lei Ng](https://github.com/gitwenlei)|[Rock Paper Scissor](https://gitwenlei.github.io/project-1-rock-paper-scissor/)|[Air It](http://sleepy-wave-35946.herokuapp.com/)|||
-|[Wilfred Loh](https://github.com/wilfredloh)|[Survival Game](https://wilfredloh.github.io/project1-survivalgame/)|[Plannr](https://quiet-beyond-84675.herokuapp.com/index)|||
+|[Wilfred Loh](https://github.com/wilfredloh)|[Survival Game](https://wilfredloh.github.io/project1-survivalgame/)|[Plannr](https://plannr-productive-app.herokuapp.com)|||
 |[Yi Xin Ang](https://github.com/artylope)|[Lost for Words](https://artylope.github.io/lostforwords/)|[HR Portal]( https://yixinhrportal.herokuapp.com/login)|||
 |[Zhi Xian Ng](https://github.com/caspianzx)|[Cyber Warrior](https://caspianzx.github.io/Cyber_Warrior/)|[Eventix](https://stormy-ocean-97277.herokuapp.com/events)|||
