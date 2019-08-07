@@ -31,10 +31,7 @@
 |[Samuel Boey](https://github.com/samboey/)|[Battleship](https://samboey.github.io/battleship/)||||
 |[Shirley Tan](https://github.com/shirleytwl)|[Gone Fishing!](https://shirleytwl.github.io/gone-fishing/)|[We View](https://yt-weview.herokuapp.com/)|||
 |[Sow Yuen Leong](https://github.com/sowyuen)|[Speed Challenge](https://sowyuen.github.io/ga-firstproject/)|[KAching!](https://hidden-wildwood-61434.herokuapp.com)|||
-|[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)|[nēi
-Events
-Login
-Register](https://project-nei.herokuapp.com/#)|||
+|[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)|[nēi](https://project-nei.herokuapp.com/#)|||
 |[Thean Yew Lim](https://github.com/limty/)|[Snake](https://tyli.ml/project-1/)||||
 |[Wen Lei Ng](https://github.com/gitwenlei)|[Rock Paper Scissor](https://gitwenlei.github.io/project-1-rock-paper-scissor/)|[Air It](http://sleepy-wave-35946.herokuapp.com/)|||
 |[Wilfred Loh](https://github.com/wilfredloh)|[Survival Game](https://wilfredloh.github.io/project1-survivalgame/)|[Plannr](https://plannr-productive-app.herokuapp.com)|||
