@@ -18,7 +18,7 @@
 |[He Qi Jonathan Bek](https://github.com/apooshoo)|[Whack-a-Kanji](https://apooshoo.github.io/whackakanji/)|[Vaults](https://blooming-scrubland-46815.herokuapp.com/)|||
 |[Hui Yu Low](https://github.com/sharkyu3)|[Battleships](https://sharkyu3.github.io/Battleships/)|[Punnet](https://pu-nnet.herokuapp.com/)|||
 |[Keith Kwan](https://github.com/w0bbbles)|[Iron Chef Hyrule](https://w0bbbles.github.io/keithtest/Project%201/)|[EVENTion](https://immense-island-47631.herokuapp.com/)|||
-|[Kenny Ang Chin Hua](https://github.com/kach92)|[Reversi](https://kach92.github.io/Reversi/)|[Bill Splitter](https://blitt.herokuapp.com/blitt/login)|||
+|[Kenny Ang Chin Hua](https://github.com/kach92)|[Reversi](https://kach92.github.io/Reversi/)|[Blitt](https://blitt.herokuapp.com/blitt/login)|||
 |[Le Lien Huong](github.com/janetle)|[Find Numbers](https://janetle.github.io/Janetle-GA-project-1/)||||
 |[Low Wei De](https://github.com/BenBear93)|[Marvel Game](https://benbear93.github.io/sei-19/project-1/)|[Insta Foodie](https://instafoodie.herokuapp.com/login)|||
 |[Malcolm Low](https://github.com/MalcolmLow83)|[Can You Change Accurately?](https://malcolmlow83.github.io/project1_changeGame)|[Scheme Shorlister](https://scheme-shortlister.herokuapp.com/)|||
