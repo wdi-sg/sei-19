@@ -28,7 +28,7 @@
 |[Muhammad Hilmi Bin Johari](https://github.com/emijay)|[Gotta Catch 'Em All!](https://emijay.github.io/Project-One/)|[Fitness Tracker](https://enigmatic-taiga-30879.herokuapp.com/home)|||
 |[Nicholas Bingei](https://github.com/nbinged)|[BlackJack](https://nbinged.github.io/BlackJack/)|[Locked in Closets](https://locked-in-closets.herokuapp.com/login)|||
 |[Nur Aqilah Binte Rajab](https://github.com/aqilahrajab/)|[Detective Race](https://aqilahrajab.github.io/Detective-Game/)|[Volunteer Management](https://shrouded-bayou-46902.herokuapp.com/login)|||
-|[Samuel Boey](https://github.com/samboey/)|[Battleship](https://samboey.github.io/battleship/)||||
+|[Samuel Boey](https://github.com/samboey/)|[Battleship](https://samboey.github.io/battleship/)|[Expiry Tracker](https://expiry-tracker.herokuapp.com)|||
 |[Shirley Tan](https://github.com/shirleytwl)|[Gone Fishing!](https://shirleytwl.github.io/gone-fishing/)|[We View](https://yt-weview.herokuapp.com/)|||
 |[Sow Yuen Leong](https://github.com/sowyuen)|[Speed Challenge](https://sowyuen.github.io/ga-firstproject/)|[KAching!](https://hidden-wildwood-61434.herokuapp.com)|||
 |[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)|[nēi](https://project-nei.herokuapp.com/#)|||
