@@ -10,7 +10,7 @@
 |[Benny Chin](https://github.com/irockmysock/)|[Shoot Shoot](https://irockmysock.github.io/project-1-shootshoot/)|[FinTrack](https://proj2-fintrack.herokuapp.com/login)|||
 |[Boon Hock Teo](https://github.com/hockie2)|[Whack-a-Mole!!](https://hockie2.github.io/Project_01/)|[My Dream Home](https://powerful-depths-72950.herokuapp.com/)|||
 |[Chin Kok MAH](https://github.com/marcykay)|[Take It Easy!](https://marcykay.github.io/sei-19/project-1/game.html)|[Take a Note](https://sei19takeanote.herokuapp.com/login)|||
-|[Daniel Choo](https://github.com/yoda14)|[Guess the Card](https://yoda14.github.io/sei-19/newFinish/arrays.html)||||
+|[Daniel Choo](https://github.com/yoda14)|[Guess the Card](https://yoda14.github.io/sei-19/newFinish/arrays.html)|[The Lens Men](https://sheltered-mesa-42259.herokuapp.com/)|||
 |[Daniel Tan](https://github.com/aikchongtan)|[Guess the Country](https://aikchongtan.github.io/sei-19/)||||
 |[Donna Cheong](https://github.com/DonC24)|[Base RPG is Base](https://donc24.github.io/sei-19/project-1/index.html)|[Med Tracker](https://gentle-stream-42227.herokuapp.com/)|||
 |[Elise Pei Hui Chia](https://github.com/smallfurrr/)|[What the Food?!](https://smallfurrr.github.io/elise-project-1-game/html/)|[Minute Diary](http://minute-diary.herokuapp.com/)|||
