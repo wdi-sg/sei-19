@@ -32,7 +32,7 @@
 |[Shirley Tan](https://github.com/shirleytwl)|[Gone Fishing!](https://shirleytwl.github.io/gone-fishing/)|[We View](https://yt-weview.herokuapp.com/)|||
 |[Sow Yuen Leong](https://github.com/sowyuen)|[Speed Challenge](https://sowyuen.github.io/ga-firstproject/)|[KAching!](https://hidden-wildwood-61434.herokuapp.com)|||
 |[Thea Fan Sue Yeh](https://github.com/thea-fan)|[Pokefight](https://thea-fan.github.io/pokefight/)|[nēi](https://project-nei.herokuapp.com/#)|||
-|[Thean Yew Lim](https://github.com/limty/)|[Snake](https://tyli.ml/project-1/)||||
+|[Thean Yew Lim](https://github.com/limty/)|[Snake](https://tyli.ml/project-1/)|[Attendance List](https://ga-sei-project-2-lty.herokuapp.com/)|||
 |[Wen Lei Ng](https://github.com/gitwenlei)|[Rock Paper Scissor](https://gitwenlei.github.io/project-1-rock-paper-scissor/)|[Air It](http://sleepy-wave-35946.herokuapp.com/)|||
 |[Wilfred Loh](https://github.com/wilfredloh)|[Survival Game](https://wilfredloh.github.io/project1-survivalgame/)|[Plannr](https://plannr-productive-app.herokuapp.com)|||
 |[Yi Xin Ang](https://github.com/artylope)|[Lost for Words](https://artylope.github.io/lostforwords/)|[HR Portal]( https://yixinhrportal.herokuapp.com/login)|||
