@@ -40,7 +40,7 @@ Your app should:
     * Link to your **user stories** – who are your users, what do they want, and why?
     * Link to your **wireframes** – sketches of major views / interfaces in your application
     * Descriptions of any **unsolved problems** or **major hurdles** you had to overcome
-* A presentation with slides of 3 minutes or less demoing your app
+* A presentation with slides. The presentation must be a demo of the app, lasting 3 minutes or less.
 
 
 ### Suggested Ways to Get Started
