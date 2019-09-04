@@ -6,7 +6,7 @@
 
 This is your capstone project, and as such is left the most open to you to decide which technologies are most suitable.
 
-Make sure you review your project proposal with your instructor so you can make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that'll showcase your skills both visually and functionally**. Sometimes people do judge a book by its cover – or an app by its design.
+Make sure you review your project proposal with your instructor so you can make sure it's **something you can accomplish in the limited time we have**.
 
 If you want to deviate beyond the technologies and materials covered in the course, make sure to check in with your instructor first!
 
