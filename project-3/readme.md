@@ -27,7 +27,7 @@ Your team has been put together in order to create a startup around a particular
 Your app must:
 
 * **Use Ruby on Rails and Active Record** to build an application
-* **Create an application using at least 2 related models**, one of which should be a user
+* **Create an application using at least 2 related models**
 * Include **all major CRUD functions** for at least one of those models
 * **Craft thoughtful user stories together**, as a team
 * **Manage team contributions and collaboration** using a standard Git flow on Github
