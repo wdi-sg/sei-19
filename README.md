@@ -5,7 +5,7 @@
 ### Class Repositories and Projects
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- | --------- | --------- | --------- |
-|[Alicia Wong](https://github.com/aliciawongg/)|[Nandesuka](https://aliciawongg.github.io/nandesuka/)|[Share Itee](https://calm-everglades-54541.herokuapp.com/shareitee)|Group 1 <br/> [Hair Affair](https://hairaffair.herokuapp.com/)||
+|[Alicia Wong](https://github.com/aliciawongg/)|[Nandesuka](https://aliciawongg.github.io/nandesuka/)|[Share Itee](https://calm-everglades-54541.herokuapp.com/shareitee)|Group 1 <br/> [Hair Affair](https://hairaffair.herokuapp.com/)|with Yi Xin <br/> [Weraoke](https://weraoke.herokuapp.com)|
 |[Axel Jacob](https://github.com/axejacob)|[Simon](https://axejacob.github.io/simon/)|[Play Jay](https://gentle-shelf-66558.herokuapp.com/index)|Group 8 <br/> [Beergem](https://beergem.herokuapp.com/)||
 |[Benny Chin](https://github.com/irockmysock/)|[Shoot Shoot](https://irockmysock.github.io/project-1-shootshoot/)|[FinTrack](https://proj2-fintrack.herokuapp.com/login)|Group 9 <br/> [Appmycafe](https://appmycafe.herokuapp.com/)||
 |[Boon Hock Teo](https://github.com/hockie2)|[Whack-a-Mole!!](https://hockie2.github.io/Project_01/)|[My Dream Home](https://powerful-depths-72950.herokuapp.com/)|Group 10 <br/> [GiftsSG](https://giftssg.herokuapp.com/)||
@@ -35,5 +35,5 @@
 |[Thean Yew Lim](https://github.com/limty/)|[Snake](https://tyli.ml/project-1/)|[Attendance List](https://ga-sei-project-2-lty.herokuapp.com/)|Group 2 <br/> [Break & Fix](https://break-and-fix.herokuapp.com/)||
 |[Wen Lei Ng](https://github.com/gitwenlei)|[Rock Paper Scissor](https://gitwenlei.github.io/project-1-rock-paper-scissor/)|[Air It](http://sleepy-wave-35946.herokuapp.com/)|Group 2 <br/> [Break & Fix](https://break-and-fix.herokuapp.com/)||
 |[Wilfred Loh](https://github.com/wilfredloh)|[Survival Game](https://wilfredloh.github.io/project1-survivalgame/)|[Plannr](https://plannr-productive-app.herokuapp.com)|Group 6 <br/> [Seekr](https://proj-seekr.herokuapp.com/)||
-|[Yi Xin Ang](https://github.com/artylope)|[Lost for Words](https://artylope.github.io/lostforwords/)|[HR Portal]( https://yixinhrportal.herokuapp.com/login)|Group 4 <br/> [oak and brass](https://oakandbrass.herokuapp.com/)||
+|[Yi Xin Ang](https://github.com/artylope)|[Lost for Words](https://artylope.github.io/lostforwords/)|[HR Portal]( https://yixinhrportal.herokuapp.com/login)|Group 4 <br/> [oak and brass](https://oakandbrass.herokuapp.com/)|with Alicia <br/> [Weraoke](https://weraoke.herokuapp.com)|
 |[Zhi Xian Ng](https://github.com/caspianzx)|[Cyber Warrior](https://caspianzx.github.io/Cyber_Warrior/)|[Eventix](https://stormy-ocean-97277.herokuapp.com/events)|Group 1 <br/> [Hair Affair](https://hairaffair.herokuapp.com/)||
